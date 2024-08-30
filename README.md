@@ -1,7 +1,15 @@
 # Classes-and-Objects
 ## Experiment 11
 
-### Theory of Classes and Objects in C++
+
+## Aim
+To perform classes and objects
+
+
+### APPARATUS
+VS Code
+
+### THEORY
 
 #### Classes
  
@@ -65,6 +73,7 @@ Classes use access specifiers:
 
 ## Algorithm for inside class
 
+
  **Define `student` Class**:
    - **Start Class**: `class student {`
    - **Public Section**: Declare accessible members with `public:`
@@ -122,6 +131,7 @@ Classes use access specifiers:
    - **Return**: `return 0;`
 
 ---
+
 
 
 
