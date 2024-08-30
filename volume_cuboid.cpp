@@ -31,3 +31,10 @@ int main() {
     cuboid.displayVolume(); 
     return 0;
 }
+
+/*
+Enter length: 6
+Enter width: 6
+Enter height: 6
+Volume of the cuboid is: 216
+    */
